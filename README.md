@@ -2,6 +2,7 @@
 
 This is my personal portfolio website built using various technologies. It showcases my projects, skills, and provides a way for others to get in touch with me.
 
+Open https://vimals-portfolio.onrender.com to view it on browser.
 
 ## Built With
 
